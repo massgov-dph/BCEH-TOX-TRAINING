@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1912,"text":"Hi, I’m Jen, and I use she/her pronouns."},{"start":6232,"text":"I’m here to introduce this training and offer a summary at the end."},{"start":11869,"text":"Environmental health is an important component of people’s overall health. "},{"start":17694,"text":"Because of that, it’s important to recognize when environmental factors "},{"start":23082,"text":"might be impacting an individual’s or a community’s health. "},{"start":28255,"text":"This module provides an overview of this topic. "},{"start":32664,"text":"By the end of this module, you will be able to:"},{"start":36764,"text":"recognize how people are exposed to environmental hazards;"},{"start":41812,"text":"recognize who is at greatest risk of exposure;"},{"start":46334,"text":"and identify ways to reduce risk to improve health outcomes."},{"start":52183,"text":"And now, please select the arrow to begin the training!"}]}]};
+    window.globalLoadJsAsset('story_content/6VP1aoDyLoi_transcripts.js', JSON.stringify(data));
+})();

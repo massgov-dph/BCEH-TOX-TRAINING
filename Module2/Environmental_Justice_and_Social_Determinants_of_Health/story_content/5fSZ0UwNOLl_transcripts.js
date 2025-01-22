@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":352,"text":"Identifying root causes can help us "},{"start":2213,"text":"understand what we can do in our different roles. "},{"start":4785,"text":"As clinicians and community health workers,"},{"start":7137,"text":"we can offer advice on how to minimize exposures."},{"start":10176,"text":"In local government and health departments, "},{"start":12084,"text":"we can create programs "},{"start":13511,"text":"to reduce exposures and provide education. "},{"start":16547,"text":"As members of community-based organizations,"},{"start":18918,"text":"we can advocate and educate on these topics."},{"start":21788,"text":"And as individuals, we can take steps"},{"start":23900,"text":" to minimize our own and our family’s exposures."}]}]};
+    window.globalLoadJsAsset('story_content/5fSZ0UwNOLl_transcripts.js', JSON.stringify(data));
+})();

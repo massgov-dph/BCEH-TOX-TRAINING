@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":456,"text":"David, a good example of what we’re talking about "},{"start":3257,"text":"is an 8-year-old girl named Imani. "},{"start":6608,"text":" Her asthma has been getting worse lately, "},{"start":9745,"text":"so her doctor arranged for a community health worker to make a home visit."},{"start":14912,"text":"Imani started using a combination inhaler a few months ago."},{"start":19483,"text":"At first, her symptoms improved,"},{"start":22232,"text":"but now that it’s summertime, she is coughing much more."},{"start":27248,"text":"Imani takes the bus to a day camp at a local community center every day."},{"start":32466,"text":"She and her mom wait for the bus at a busy intersection by their rented apartment."}]}]};
+    window.globalLoadJsAsset('story_content/5rt8sHLPQTY_transcripts.js', JSON.stringify(data));
+})();

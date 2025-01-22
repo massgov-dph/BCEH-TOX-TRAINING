@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":288,"text":"Examples of interventions include using inexpensive cooling strategies, "},{"start":4908,"text":"investigating social and peer support options, "},{"start":7847,"text":"and advocating for safe recreational water."},{"start":10417,"text":"Individuals can also drink plenty of water,"},{"start":13025,"text":"wear loose-fitting and light-colored clothing,"},{"start":15535,"text":"try to eat well-balanced light meals, use stove for cooking in the morning,"},{"start":19980,"text":"avoid heavy activity, watch for signs of dehydration and overheating,"},{"start":24364,"text":"and call 2-1-1 to find nearby cooling centers."}]}]};
+    window.globalLoadJsAsset('story_content/64yJM2yHoMC_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":320,"text":"Individuals at greatest risk of heat-related illness "},{"start":3936,"text":"are those under age 5 or over age 65, "},{"start":8104,"text":"those who are pregnant, "},{"start":9962,"text":"those with pre-existing health conditions, "},{"start":12584,"text":"and those with social factors that place them at "},{"start":15497,"text":"increased risk of exposure – "},{"start":17810,"text":"such as people who live alone, "},{"start":19730,"text":"people of color, "},{"start":21222,"text":"people with limited English, "},{"start":23320,"text":"people who work or exercise outdoors, "},{"start":26139,"text":"and people without access to air conditioning."}]}]};
+    window.globalLoadJsAsset('story_content/6cVVXhhkb77_transcripts.js', JSON.stringify(data));
+})();

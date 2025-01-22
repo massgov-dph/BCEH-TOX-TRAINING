@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1849,"text":"Hi, my name is Jackson."},{"start":3909,"text":"I’m here to introduce this video and give a summary at the end."},{"start":7977,"text":"We’ve all heard a lot about climate change "},{"start":10178,"text":"and how it threatens the health of our planet."},{"start":12853,"text":"We hear less about how climate change can affect human health."},{"start":16689,"text":"This is an opportunity to learn more about this topic."},{"start":20567,"text":"By the end of this module, you will be able to: "},{"start":22823,"text":"Recognize types of climate change affecting Massachusetts."},{"start":26945,"text":"Recognize how our changing climate can affect people’s health."},{"start":31049,"text":"And recognize who is at greatest risk of climate-related health concerns."}]}]};
+    window.globalLoadJsAsset('story_content/5cF9GRLPsoc_transcripts.js', JSON.stringify(data));
+})();

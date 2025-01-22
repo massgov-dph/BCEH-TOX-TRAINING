@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":320,"text":"Let’s go over these health risks. "},{"start":2208,"text":"First, Ana has already experienced the"},{"start":4849,"text":"hazards of swimming at a beach with poor water quality."},{"start":7975,"text":"Unfortunately, she got a severe gastrointestinal illness because of it. "},{"start":12526,"text":"But now, the frequency of beach closures "},{"start":15150,"text":"also puts her at risk of heat-related illness. "},{"start":18331,"text":"As a teenager, Ana is already at increased risk for depression and anxiety. "},{"start":23775,"text":"Lack of sleep and social support can complicate mental health issues. "},{"start":28232,"text":"In addition, sleep loss could also put her at risk of workplace "},{"start":32092,"text":"injuries in the coffee shop where she works."}]}]};
+    window.globalLoadJsAsset('story_content/6POcthLdZes_transcripts.js', JSON.stringify(data));
+})();

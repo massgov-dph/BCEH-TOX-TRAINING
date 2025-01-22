@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":832,"text":"Now that we’ve discussed extreme heat, "},{"start":2928,"text":"health effects, social factors and root causes,"},{"start":6624,"text":"a case example, and some individual and local government interventions,"},{"start":11680,"text":"let’s look at a broader array of interventions."},{"start":14528,"text":"Learners, select each component of the Extreme Heat Interventions graphic"},{"start":20048,"text":"to learn about possible interventions"},{"start":22608,"text":"at the clinical, local government, community, and individual levels."},{"start":27808,"text":"You might also be interested in Massachusetts guidance on cooling centers."},{"start":32808,"text":"When you are done, select the arrow to move to the next screen."}]}]};
+    window.globalLoadJsAsset('story_content/6DNTMRnIBDm_transcripts.js', JSON.stringify(data));
+})();

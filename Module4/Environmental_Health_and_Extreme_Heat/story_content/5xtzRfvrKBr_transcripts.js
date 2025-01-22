@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":64,"text":"Peter, let’s talk about a case study to bring this topic to life. "},{"start":4848,"text":"Good idea, Graciela. "},{"start":6590,"text":"Abe is a 72-year-old man with high blood pressure, "},{"start":9661,"text":"type II diabetes, and kidney disease. "},{"start":12743,"text":"His doctors referred him to a community health worker "},{"start":15397,"text":"to help him manage his ongoing health concerns."},{"start":18363,"text":"He lives alone in an apartment in the city, in a heat island,"},{"start":22650,"text":"and he does not have air conditioning."},{"start":24856,"text":"He is a retired bus driver and does not own a car. "},{"start":28202,"text":"He relies on walking to reach many of his destinations."},{"start":31912,"text":" Abe often goes to the local park to visit some friends. "},{"start":35249,"text":"He mentions that with the weather getting warmer,"},{"start":37475,"text":"he is concerned about how he will manage the heat."}]}]};
+    window.globalLoadJsAsset('story_content/5xtzRfvrKBr_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":728,"text":"We can reduce our risk of health effects in two ways: "},{"start":4736,"text":"by reducing the amount of hazard present, "},{"start":7336,"text":"and by reducing our exposure to the hazard. "},{"start":10984,"text":"For example, we reduce the amount of hazard present "},{"start":14832,"text":"when we choose cleaning products that don’t have harmful chemicals, "},{"start":19066,"text":"or select low-mercury fish to eat, "},{"start":22048,"text":"or take off our shoes to keep any soil contaminants outside. "},{"start":27136,"text":"We reduce our exposure when we wash our hands, "},{"start":30376,"text":"wash fruits and vegetables, "},{"start":32442,"text":"and bring fresh air into the home. "},{"start":34737,"text":"We can take lots of other steps as well."}]}]};
+    window.globalLoadJsAsset('story_content/6IMAWTmQ0eT_transcripts.js', JSON.stringify(data));
+})();
